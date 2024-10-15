@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Currently attending KTH as a second year data technology student<br>🔭 I am currently working on building websites using React and Tailwind<br>🌱 I’m currently learning Springboot so that I can build full stack web app
+Currently attending KTH as a second year data technology student<br>🔭 I am currently working on building websites using React and Tailwind<br>🌱 I’m currently learning Springboot so that I can build full stack web applications
 
 
 ## 🌐 Socials:
