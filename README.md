@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>🔭 I am currently working on building websites using React and Tailwind<br>🌱 I am also learning Springboot so that I can build full stack web applications
+<br>🔭 I am currently working on building websites using React, Tailwind and MongoDB<br>🌱 I am also learning Springboot so that I can build full stack web applications
 
 
 ## 🌐 Socials:
