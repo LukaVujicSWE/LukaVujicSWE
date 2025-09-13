@@ -8,8 +8,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukaVujicSWE&label=Profile%20views&color=0e75b6&style=flat" alt="LukaVujicSWE" /> </p>
-
 ## 🖥️ Technologies I am familiar/work with
 
 |                                                                                                          |                                                                                                                  |                                                                                                                |
